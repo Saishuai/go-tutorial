@@ -1,4 +1,7 @@
-package main import ( "errors"
+package main
+
+import (
+	"errors"
 	"log"
 	"net/http"
 
